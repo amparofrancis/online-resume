@@ -1,15 +1,12 @@
 
-open source resume(html+js+css)
+open source online resume (HTML + JS + CSS)
 
-<h2>开源简历（open source resume）</h2>
-自己应聘做了一个简历,喜欢的可以去改成自己；
-code写的也不够标准，有兴趣的可以协助修改下。
+<h2>Open Source Online Resume (English Version)</h2>
 
-一些特色：
-<ul>
-  <li>响应式布局</li>
-  <li>局部打印</li>
-  <li>语音操作</li>
-</ul>
+This is an open source online resume template.
+
+Last Update: May 27, 2021
+
+
 
 
